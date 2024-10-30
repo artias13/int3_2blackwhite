@@ -4,8 +4,8 @@
 
 1. Склонируйте репу
    `git clone https://github.com/artias13/int3_2blackwhite`
-2. Заполните programlist.txt тестовыми данными
-   `python -m venv venv`
+2. Заполните programlist.txt названиями программ из
+   `C:\Windows\Prefetch`
 3. Запустите программу
    `python main.py`
 
