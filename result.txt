@@ -1,0 +1,12 @@
+| Наименование | Дата последнего запуска |
+|-------------|--------------------------|
+| c:\windows\prefetch\sppsvc.exe-7b160ca5.pf | 2024-10-31 00:14:32 |
+| c:\windows\prefetch\pythonw.exe-ff3f1d04.pf | 2024-10-31 00:15:02 |
+| c:\windows\prefetch\searchfilterhost.exe-10e4267c.pf | 2024-10-31 00:15:19 |
+| c:\windows\prefetch\excel.exe-36952af2.pf | 2024-10-31 00:14:48 |
+| c:\windows\prefetch\conhost.exe-f98a1078.pf | 2024-10-31 00:15:42 |
+| c:\windows\prefetch\avp.exe-2f22b972.pf | 2024-10-31 00:14:15 |
+| c:\windows\prefetch\ipconfig.exe-eea91845.pf | 2024-10-31 00:15:59 |
+| c:\windows\prefetch\chrome.exe-ccf9f3f5.pf | 2024-10-31 00:13:57 |
+
+| - | - | ПК считается безопасным. |

@@ -1,0 +1,8 @@
+chrome.exe
+avp.exe
+conhost.exe
+excel.exe
+ipconfig.exe
+pythonw.exe
+searchfilterhost.exe
+sppsvc.exe
